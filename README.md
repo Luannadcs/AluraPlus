@@ -23,13 +23,8 @@
 ![aluraplus1](https://user-images.githubusercontent.com/116601292/209943704-fc394799-fece-4ffd-9664-8f04a26cf1c9.png)
 ![aluraplus2](https://user-images.githubusercontent.com/116601292/209943785-0e4aacc8-d17e-4979-9345-f96279cd25fc.png)
 ![aluraplus3](https://user-images.githubusercontent.com/116601292/209943824-a30795e4-146b-45ca-9c7c-ae23b51bb555.png)
-
-
-
-
-
-
-
+![aluraplus4](https://user-images.githubusercontent.com/116601292/209944113-982e6e16-2292-42ad-8acc-176300c31555.png)
+![aluraplus5](https://user-images.githubusercontent.com/116601292/209944136-f4bd0610-822d-46df-a9ba-ab8ef2d717ca.png)
 
 <h4 align="center"> 
     :white_check_mark:  Projeto Finalizado
